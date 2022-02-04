@@ -1,3 +1,4 @@
+//jshint esversion:6
 const wrapper = document.querySelector(".wrapper"),
 searchInput = wrapper.querySelector("input"),
 volume = wrapper.querySelector(".word i"),
